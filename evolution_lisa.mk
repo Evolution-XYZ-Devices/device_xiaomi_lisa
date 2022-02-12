@@ -14,6 +14,8 @@ $(call inherit-product, device/xiaomi/lisa/device.mk)
 # Inherit some common Evolution stuff.
 $(call inherit-product, vendor/evolution/config/common_full_phone.mk)
 
+TARGET_BOOT_ANIMATION_RES := 1080
+
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := lisa
 PRODUCT_MANUFACTURER := Xiaomi
