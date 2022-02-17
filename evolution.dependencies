@@ -1,0 +1,19 @@
+[  
+    {
+      "remote":"github",
+      "repository":"CannedShroud/device_xiaomi_sm8350-common",
+      "target_path":"device/xiaomi/sm8350-common",
+      "branch":"evo-x"
+    },
+    {
+      "remote":"github",
+      "repository":"CannedShroud/android_vendor_xiaomi",
+      "target_path":"vendor/xiaomi",
+      "branch":"evo-x"
+    },
+    {
+      "remote":"github",
+      "repository":"CannedShroud/android_kernel_xiaomi_lisa-temp",
+      "target_path":"kernel/xiaomi/lisa",
+    },
+]
