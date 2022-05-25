@@ -14,6 +14,6 @@
     {
       "remote":"github",
       "repository":"CannedShroud/android_kernel_xiaomi_lisa-temp",
-      "target_path":"kernel/xiaomi/lisa",
-    },
+      "target_path":"kernel/xiaomi/lisa"
+    }
 ]
